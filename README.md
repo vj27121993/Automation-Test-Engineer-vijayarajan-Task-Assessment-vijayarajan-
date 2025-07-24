@@ -1,2 +1,23 @@
 # Automation-Test-Engineer-vijayarajan
-Task 
+## Table of Contents
+
+1. [Prerequisites](#prerequisites)  
+2. [Project Structure](#project-structure)  
+3. [1. Web UI Automation (Selenium + TestNG)](#1-web-ui-automation-selenium--testng)  
+   - [Setup](#setup)  
+   - [Execute Tests](#execute-tests)  
+   - [Test Scenarios](#test-scenarios)  
+4. [2. API Automation (REST Assured )](#2-api-automation-rest-assured-)  
+   - [Setup](#setup-1)  
+   - [Execute Tests](#execute-tests-1)  
+   - [Test Scenarios](#test-scenarios-1)  
+5. [3. Performance Testing (JMeter )](#3-performance-testing-jmeter--)  
+   - [Setup](#setup-2)  
+   - [Execute Tests](#execute-tests-2)  
+   - [Test Scenarios](#test-scenarios-2)  
+6. [4. CI/CD Pipeline Integration ( GitHub Actions)](-github-actions)  
+   - [Pipeline Configuration](#pipeline-configuration)  
+   - [Reports & Logging](#reports--logging)  
+7. [5. Advanced Bonus Tasks](#5-advanced-bonus-tasks)  
+8. [Contributing](#contributing)  
+9. [License](#license)
